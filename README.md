@@ -1,1 +1,1 @@
-WEB_APP_IPCamera
+AppCamera
